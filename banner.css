@@ -1,0 +1,21 @@
+ .banner {
+ 	background-image:  url(../../images/bannerpicture.jpeg);
+ 	size: 50px;
+ 	color: white;
+ 	padding: 150px 0px;
+ 	background-size: cover;
+ 	background-position: center;
+ }
+
+ .banner h1 {
+ font-size: 30px;
+ color: black;
+ opacity: 3;
+
+ }
+ .banner h2 {
+ 	font-size: 30 px;
+ 	opacity: 2; 
+ 	font-weight: lighter;
+ 	margin-bottom: 40px;
+ }
